@@ -22,7 +22,7 @@ The lecture notes will all be given in the form of Jupyter Notebooks and are ava
 * Week 11 Reading Week
 * [Week 12](./week12.ipynb) Special Topic: Gaussian Processes
 
-
+## Notes
 
 
     
