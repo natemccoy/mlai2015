@@ -3,3 +3,5 @@
 R-vs-Python-master
 *.pdf
 *.zip
+__pycache__
+update.sh
